@@ -238,10 +238,17 @@ html, body {
 .container .content{
   top:130px;
   color:#fff;
-  font-size: 25px;
+  font-size: 30px;
   animation: glow 1s ease-in-out infinite alternate;
 }
-
+.conent2{
+  font-size: 25px;
+  color: #fff;
+  position: relative;
+  top: 500px;
+  right: 14px;
+  animation: glow 1s ease-in-out infinite alternate;
+}
 
 .container .sparkles {
   bottom: -40px;
